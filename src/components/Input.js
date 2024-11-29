@@ -9,6 +9,10 @@ const Input = (props) => {
         <h3>{props.text}</h3>
       </div>
     </div>
+
+
+
+
   );
 };
 
